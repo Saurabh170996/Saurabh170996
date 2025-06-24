@@ -16,7 +16,7 @@ Hi, I'm Saurabh Shyam, a passionate software developer with expertise in buildin
 ---
 
 ## 💼 Work Experience
-### **Software Developer Intern** - Physics Wallah Pvt. Ltd. *(July 2024 – December 2024)*
+### **Full Stack Developer** - Infosys *(Nov 2022 – Present)*
 - Engineered and optimized secure authentication pipelines, reducing errors by 20%.
 - Developed and deployed RESTful APIs to manage high-traffic workflows, improving response times.
 - Debugged and streamlined communication between frontend and backend, enhancing efficiency.

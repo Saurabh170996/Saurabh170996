@@ -6,17 +6,17 @@ Hi, I'm Saurabh Shyam, a passionate software developer with expertise in buildin
 ---
 
 ## 🛠️ Key Skills
-- **Programming Languages:** Java, JavaScript (ES6+)
-- **Frontend Development:** React.js, Redux, Zustand, TailwindCSS
-- **Backend Development:** Node.js, Express.js, REST APIs, GraphQL, WebSocket (Socket.IO)
-- **Databases:** MongoDB, MySQL, Redis, Kafka
-- **DevOps & Tools:** AWS, Docker, Git, Postman, Cloudinary, Linux
+- **Programming Languages:** C, Java, JavaScript (ES6+)
+- **Frontend Development:** React.js, Redux, Zustand, Bootstrap, TailwindCSS
+- **Backend Development:** Node.js, Express.js, REST APIs.
+- **Databases:** MongoDB, MySQL.
+- **DevOps & Tools:** AWS (Basic), Git, Postman.
 - **Programming Concepts:** Data Structures and Algorithms, Object-Oriented Programming (OOP)
 
 ---
 
 ## 💼 Work Experience
-### **Full Stack Developer** - Infosys *(Nov 2022 – Present)*
+### **Freelancer** - *(Nov 2024 – Present)*
 - Engineered and optimized secure authentication pipelines, reducing errors by 20%.
 - Developed and deployed RESTful APIs to manage high-traffic workflows, improving response times.
 - Debugged and streamlined communication between frontend and backend, enhancing efficiency.

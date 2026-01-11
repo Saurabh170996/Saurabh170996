@@ -16,7 +16,7 @@ Hi, I'm Saurabh Shyam, a passionate software developer with expertise in buildin
 ---
 
 ## 💼 Work Experience
-### **Freelancer** - *(Nov 2024 – Present)*
+### **Freelancer** - *(Nov 2023 – Present)*
 - Engineered and optimized secure authentication pipelines, reducing errors by 20%.
 - Developed and deployed RESTful APIs to manage high-traffic workflows, improving response times.
 - Debugged and streamlined communication between frontend and backend, enhancing efficiency.

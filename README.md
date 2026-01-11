@@ -49,7 +49,7 @@ An e-commerce platform inspired by Myntra with advanced features.
 - **Phone:** +91-8981665057
 - **LinkedIn:** [Saurabh Shyam](www.linkedin.com/in/saurabh-shyam-1900a9244)
 - **GitHub:** [Saurabh170996](https://github.com/Saurabh170996)
-- **Portfolio:** [saurabhshyam.netlify.app](https://saurabhshyam.netlify.app/)
+- **Portfolio:** [saurabhshyam96.netlify.app](https://saurabhshyam96.netlify.app/)
 
 ---
 
